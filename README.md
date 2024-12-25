@@ -1,5 +1,5 @@
 
-![Ilustrasi Proyek]([https://2.bp.blogspot.com/-NZPpkWswwSM/VtW5wbsNCmI/AAAAAAAAA7Q/t8ZQg9J7PDs/s1600/jasa%2Breservasi%2Bhotel.jpg](https://github.com/Wildanamru/Strategi-Optimalisasi-Reservasi-Hotel/blob/main/Visualisasi/Booking%20Now.png )
+![Ilustrasi Proyek](https://github.com/Wildanamru/Strategi-Optimalisasi-Reservasi-Hotel/blob/main/Visualisasi/Booking%20Now.png)
 # 🌟 Strategi Optimalisasi Reservasi Hotel: Analisis Pola Pemesanan dan Faktor Utama Pembatalan 🌟
 
 ## 🗂️ Table of Contents
