@@ -65,6 +65,7 @@ Tabel di atas menunjukkan distribusi status pembatalan pemesanan hotel dari tahu
 
 ### **🔎 Pola Pemesanan Berdasarkan Asal Tamu**  
 #### 🌍 **10 Negara Teratas Asal Tamu:**  
+![Visualisasi]([https://raw.githubusercontent.com/Wildanamru/Strategi-Optimalisasi-Reservasi-Hotel/main/Visualisasi/Booking%20Now.png](https://github.com/Wildanamru/Strategi-Optimalisasi-Reservasi-Hotel/blob/main/Visualisasi/Asal%20Negara1.png))
 Antara tahun 2015 hingga 2017, mayoritas tamu berasal dari Portugal (PRT) dengan lebih dari 20.000 kunjungan tanpa pembatalan, diikuti oleh Inggris (GBR) dan Prancis (FRA). Selain itu, mayoritas tamu secara keseluruhan berasal dari kategori dewasa (adults) dengan jumlah 136,965, sementara kategori anak-anak (children) dan bayi (babies) memiliki kontribusi yang jauh lebih kecil. Data ini mencerminkan bahwa perjalanan wisata didominasi oleh orang dewasa, dengan Portugal sebagai negara asal tamu terbesar, kemungkinan karena faktor geografis, budaya, dan aksesibilitas.
 
 ---
