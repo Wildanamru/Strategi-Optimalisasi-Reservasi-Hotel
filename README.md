@@ -1,3 +1,5 @@
+![Booking Now](https://raw.githubusercontent.com/Wildanamru/Strategi-Optimalisasi-Reservasi-Hotel/main/Visualisasi/Booking%20Now.png)
+
 # **Strategi Optimalisasi Reservasi Hotel: Analisis Pola Pemesanan dan Faktor Utama Pembatalan**  
 *(“Meningkatkan Keberhasilan Reservasi dengan Pendekatan Data dan Solusi Berbasis Wawasan”)*  
 
